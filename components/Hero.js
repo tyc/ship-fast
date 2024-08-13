@@ -22,11 +22,10 @@ const Hero = () => {
         </a>
 
         <h1 className="font-extrabold text-4xl lg:text-6xl tracking-tight md:-mb-4">
-          Ship your startup in days, not weeks
+          Do you want to calculate the take home pay after tax?
         </h1>
         <p className="text-lg opacity-80 leading-relaxed">
-          The NextJS boilerplate with all you need to build your SaaS, AI tool,
-          or any other web app. From idea to production in 5 minutes.
+          This is a test for the big cow to jump over the moon.
         </p>
         <button className="btn btn-primary btn-wide">
           Get {config.appName}
@@ -37,7 +36,7 @@ const Hero = () => {
       <div className="lg:w-full">
         <Image
           src="https://images.unsplash.com/photo-1571171637578-41bc2dd41cd2?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=3540&q=80"
-          alt="Product Demo"
+          alt="Product Demo and the cow jumping"
           className="w-full"
           priority={true}
           width={500}
